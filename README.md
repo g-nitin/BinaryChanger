@@ -1,1 +1,2 @@
 # BinaryChanger
+Simple binary adder.
